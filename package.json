@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-interzoid-getcitymatch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "API provides similarity key for city name deduplication, fuzzy matching, and dataset merging.",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-interzoid-getcitymatch",
